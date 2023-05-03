@@ -41,7 +41,7 @@ I am a computer engineering student and a self-improving developer in various fi
 
 <br />
 
-------------
+
 
 
 | <a href="https://github.com/keremeersoy/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=keremeersoy&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="keremeersoy's github stats" /></a> | <a href="https://github.com/keremeersoy/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keremeersoy&layout=compact&theme=buefy&hide_border=true" /></a> |

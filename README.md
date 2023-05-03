@@ -1,4 +1,16 @@
-### Hi there 👋
+
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWUwOTU1YzE5N2YzNGJiNzk5N2JhZjU0MjAzZmQ2NDE4MjhlM2YzMCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/ZVik7pBtu9dNS/giphy.gif" width="100"/>
+</div>
+
+<div id="badges">
+  <a href="https://www.linkedin.com/in/azimetkeremersoy">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
+
+<img src="https://komarev.com/ghpvc/?keremeersoy&style=flat-square&color=blue" alt=""/>
+
 
 <!--
 **keremeersoy/keremeersoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

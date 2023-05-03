@@ -11,16 +11,19 @@
 
 <img src="https://komarev.com/ghpvc/?keremeersoy&style=flat-square&color=blue" alt=""/>
 
+------------
+
 <br />
 
-**About me**
+### About Me
 
 I am a computer engineering student and a self-improving developer in various fields. I specialize in front-end development and strive towards becoming a full-stack developer step by step. I continue to work on personal projects and take on freelance jobs to improve myself. Additionally, I serve as the Web Team Captain for my university's Google Development Student Clubs community.
 
+------------
 
 <br />
 
-### :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: Languages and Tools 
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
@@ -37,6 +40,8 @@ I am a computer engineering student and a self-improving developer in various fi
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="Csharp" alt="Csharp" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
+
+------------
 
 <br />
 

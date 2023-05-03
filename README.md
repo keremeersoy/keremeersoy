@@ -16,7 +16,9 @@
 ### About Me
 
 I am a computer engineering student and a self-improving developer in various fields. I specialize in front-end development and strive towards becoming a full-stack developer step by step. I continue to work on personal projects and take on freelance jobs to improve myself. Additionally, I serve as the Web Team Captain for my university's Google Development Student Clubs community.
+
 <br />
+
 ------------
 
 ### :hammer_and_wrench: Languages and Tools 
@@ -40,7 +42,6 @@ I am a computer engineering student and a self-improving developer in various fi
 <br />
 
 ------------
-
 
 
 | <a href="https://github.com/keremeersoy/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=keremeersoy&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="keremeersoy's github stats" /></a> | <a href="https://github.com/keremeersoy/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keremeersoy&layout=compact&theme=buefy&hide_border=true" /></a> |

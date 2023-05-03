@@ -11,7 +11,7 @@
 
 <img src="https://komarev.com/ghpvc/?keremeersoy&style=flat-square&color=blue" alt=""/>
 
-------------
+
 
 ## About Me✨
 
@@ -19,7 +19,7 @@ I am a computer engineering student and a self-improving developer in various fi
 
 <br />
 
-------------
+
 
 ## :hammer_and_wrench: Languages and Tools 
 

@@ -11,6 +11,8 @@
 
 <img src="https://komarev.com/ghpvc/?keremeersoy&style=flat-square&color=blue" alt=""/>
 
+[![keremeersoy's GitHub stats](https://github-readme-stats.vercel.app/api?username=keremeersoy)](https://github.com/keremeersoy/github-readme-stats)
+
 
 <!--
 **keremeersoy/keremeersoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

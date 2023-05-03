@@ -12,7 +12,6 @@
 <img src="https://komarev.com/ghpvc/?keremeersoy&style=flat-square&color=blue" alt=""/>
 
 <br />
-<br />
 
 ### :hammer_and_wrench: Languages and Tools :
 
@@ -33,7 +32,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
-<br />
 <br />
 
 | <a href="https://github.com/keremeersoy/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=keremeersoy&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="keremeersoy's github stats" /></a> | <a href="https://github.com/keremeersoy/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keremeersoy&layout=compact&theme=buefy&hide_border=true" /></a> |

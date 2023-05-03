@@ -32,6 +32,15 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
+----------
+<div align="center">
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=keremeersoy&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+</div>
+
+<div align="center">
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keremeersoy)](https://github.com/keremeersoy/github-readme-stats)
+</div>
+
 
 <!--
 **keremeersoy/keremeersoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

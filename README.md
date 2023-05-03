@@ -13,7 +13,7 @@
 
 ------------
 
-### About Me
+## About Me✨
 
 I am a computer engineering student and a self-improving developer in various fields. I specialize in front-end development and strive towards becoming a full-stack developer step by step. I continue to work on personal projects and take on freelance jobs to improve myself. Additionally, I serve as the Web Team Captain for my university's Google Development Student Clubs community.
 
@@ -21,7 +21,7 @@ I am a computer engineering student and a self-improving developer in various fi
 
 ------------
 
-### :hammer_and_wrench: Languages and Tools 
+## :hammer_and_wrench: Languages and Tools 
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;

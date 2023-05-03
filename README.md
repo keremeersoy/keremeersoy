@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWUwOTU1YzE5N2YzNGJiNzk5N2JhZjU0MjAzZmQ2NDE4MjhlM2YzMCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/ZVik7pBtu9dNS/giphy.gif" width="500"/>
 </div>
 
-<div id="badges">
+<div id="badges" align="center" >
   <a href="https://www.linkedin.com/in/azimetkeremersoy">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>

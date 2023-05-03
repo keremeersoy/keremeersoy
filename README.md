@@ -34,10 +34,8 @@
 
 ----------
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=keremeersoy&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+| <a href="https://github.com/keremeersoy/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=keremeersoy&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="keremeersoy's github stats" /></a> | <a href="https://github.com/keremeersoy/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keremeersoy&layout=compact&theme=buefy&hide_border=true" /></a> |
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keremeersoy&layout=compact&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 

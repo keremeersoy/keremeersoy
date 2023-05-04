@@ -24,7 +24,7 @@ I am a computer engineering student and a self-improving developer in various fi
 ## :hammer_and_wrench: Languages and Tools 
 
 <div>
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+
 
 </div>
 

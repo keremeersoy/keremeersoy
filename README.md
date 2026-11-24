@@ -2,13 +2,13 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0f172a,100:3b82f6&text=Azimet%20Kerem%20Ersoy&fontColor=ffffff&fontSize=42&fontAlignY=38&desc=Frontend%20Developer%20at%20Jotform&descAlignY=60&descSize=18" alt="Azimet Kerem Ersoy" />
 
-<h3>
-  <a href="https://azimetkeremersoy.com">Website</a>
-  &nbsp;&middot;&nbsp;
-  <a href="https://www.linkedin.com/in/azimetkeremersoy">LinkedIn</a>
-  &nbsp;&middot;&nbsp;
-  <a href="https://medium.com/@azimetkeremersoy">Medium</a>
-</h3>
+<p>
+  <a href="https://azimetkeremersoy.com"><img src="https://skillicons.dev/icons?i=vercel&theme=dark" width="44" alt="Website" /></a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/azimetkeremersoy"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="44" alt="LinkedIn" /></a>
+  &nbsp;&nbsp;
+  <a href="https://medium.com/@azimetkeremersoy"><img src="https://skillicons.dev/icons?i=medium&theme=dark" width="44" alt="Medium" /></a>
+</p>
 
 </div>
 

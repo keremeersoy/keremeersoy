@@ -2,9 +2,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0f172a,100:3b82f6&text=Azimet%20Kerem%20Ersoy&fontColor=ffffff&fontSize=42&fontAlignY=38&desc=Frontend%20Developer%20at%20Jotform&descAlignY=60&descSize=18" alt="Azimet Kerem Ersoy" />
 
-[![Website](https://img.shields.io/badge/Website-azimetkeremersoy.com-0f172a?style=for-the-badge&logo=vercel&logoColor=white)](https://azimetkeremersoy.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-azimetkeremersoy-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/azimetkeremersoy)
-[![Medium](https://img.shields.io/badge/Medium-azimetkeremersoy-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@azimetkeremersoy)
+[![Website](https://img.shields.io/badge/Website-1e293b?style=flat-square&logo=googlechrome&logoColor=white)](https://azimetkeremersoy.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1e293b?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/azimetkeremersoy)
+[![Medium](https://img.shields.io/badge/Medium-1e293b?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@azimetkeremersoy)
 
 </div>
 
